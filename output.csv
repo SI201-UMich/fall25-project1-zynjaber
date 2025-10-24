@@ -1,0 +1,18 @@
+Average Body Mass by Species and Sex
+Species,Sex,Average Body Mass (g)
+Adelie,male,4043.49
+Adelie,female,3368.84
+Adelie,NA,3540.0
+Gentoo,female,4679.74
+Gentoo,male,5484.84
+Gentoo,NA,4587.5
+Chinstrap,female,3527.21
+Chinstrap,male,3938.97
+
+Average Flipper Length by Island and Species
+Island,Species,Average Flipper Length (mm)
+Torgersen,Adelie,191.2
+Biscoe,Adelie,188.8
+Biscoe,Gentoo,217.19
+Dream,Adelie,189.73
+Dream,Chinstrap,195.82
